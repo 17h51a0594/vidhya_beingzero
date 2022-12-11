@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/17h51a0594/vidhya_beingzero#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
